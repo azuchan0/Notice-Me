@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.azuchan0.noticeme": {
+      "version": "file:com.azuchan0.noticeme",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.test-framework": "1.6.0"
+      }
+    },
     "com.unity.burst": {
       "version": "2.0.0",
       "depth": 2,
