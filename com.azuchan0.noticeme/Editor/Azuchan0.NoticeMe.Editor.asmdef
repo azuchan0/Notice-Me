@@ -1,0 +1,10 @@
+{
+    "name": "Azuchan0.NoticeMe.Editor",
+    "references": [
+      "Azuchan0.NoticeMe"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

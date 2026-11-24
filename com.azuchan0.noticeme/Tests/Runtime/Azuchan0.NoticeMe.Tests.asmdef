@@ -1,0 +1,11 @@
+{
+    "name": "Azuchan0.NoticeMe.Tests",
+    "references": [
+        "Azuchan0.NoticeMe"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Azuchan0.NoticeMe.Editor.Tests",
+    "references": [
+        "Azuchan0.NoticeMe.Editor",
+        "Azuchan0.NoticeMe"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
