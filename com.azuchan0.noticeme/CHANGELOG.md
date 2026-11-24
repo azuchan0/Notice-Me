@@ -6,6 +6,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [0.1.0] - 2026-11-24
 
-### This is the first release of *\<Notice Me!\>*.
+### Added
 
-*Short description of this release*
+- Initial Notice Me! package scaffold with runtime, editor, and test assemblies.
